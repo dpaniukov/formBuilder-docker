@@ -1,4 +1,4 @@
-# docker-static-files-serve
+# formBuilder-docker
 A simple example to show how to serve static files from docker using nginx
 
 To run this example,
